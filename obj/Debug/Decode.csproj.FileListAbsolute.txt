@@ -1,0 +1,7 @@
+F:\Web\MyProject\SDK\SDK.NET\Decode\bin\Debug\Decode.exe.config
+F:\Web\MyProject\SDK\SDK.NET\Decode\bin\Debug\Decode.exe
+F:\Web\MyProject\SDK\SDK.NET\Decode\bin\Debug\Decode.pdb
+F:\Web\MyProject\SDK\SDK.NET\Decode\obj\Debug\Decode.csprojResolveAssemblyReference.cache
+F:\Web\MyProject\SDK\SDK.NET\Decode\obj\Debug\Decode.csproj.CoreCompileInputs.cache
+F:\Web\MyProject\SDK\SDK.NET\Decode\obj\Debug\Decode.exe
+F:\Web\MyProject\SDK\SDK.NET\Decode\obj\Debug\Decode.pdb
